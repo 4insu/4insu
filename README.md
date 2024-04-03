@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriyo Ain</h1>
-<h3 align="center">A Machine Learning Enthusiast.</h3>
+<h3 align="center">I'm a Machine Learning Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4insu&label=Profile%20views&color=0e75b6&style=flat" alt="4insu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4insu" alt="4insu" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
