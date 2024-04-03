@@ -9,11 +9,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ainsupriyofficial](https://medium.com/@ainsupriyofficial)
 
-- 💬 Ask me about **TensorFlow, Pytorch & Scikit-Learn**
+- 💬 Ask me about **neural networks, machine learning algorithms, deep learning frameworks, and model optimization**
 
 - 📫 How to reach me **supriyo.ain.02@gmail.com**
-
-- ⚡ Fun fact **My future self is watching me right now through memories.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
